@@ -1,8 +1,8 @@
 #!/bin/bash
 
 UPDATE_SELF=${UPDATE_SELF:-1}
-UPDATE_URI="https://raw.githubusercontent.com/snip/OGN-receiver-RPI-image/master/dist/OGN-receiver-config-manager"
-OGNBINARYURL="http://download.glidernet.org/rpi-gpu/rtlsdr-ogn-bin-RPI-GPU-latest.tgz"
+UPDATE_URI="https://raw.githubusercontent.com/hanneskuettner/OGN-receiver-RPI-image/master/dist/OGN-receiver-config-manager"
+OGNBINARYURL="http://download.glidernet.org/arm/rtlsdr-ogn-bin-ARM-latest.tgz"
 GEOIDSEPARURL="http://download.glidernet.org/common/WW15MGH.DAC"
 WORK_PATH="/root"
 
